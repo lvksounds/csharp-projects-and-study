@@ -1,0 +1,16 @@
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\bin\Debug\net5.0\ExerciciosConsole.exe
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\bin\Debug\net5.0\ExerciciosConsole.deps.json
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\bin\Debug\net5.0\ExerciciosConsole.runtimeconfig.json
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\bin\Debug\net5.0\ExerciciosConsole.runtimeconfig.dev.json
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\bin\Debug\net5.0\ExerciciosConsole.dll
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\bin\Debug\net5.0\ExerciciosConsole.pdb
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.dll
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\refint\ExerciciosConsole.dll
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.pdb
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ExerciciosConsole.genruntimeconfig.cache
+C:\Users\lucas.freitas\Documents\C#\exercicios\ExerciciosConsole\obj\Debug\net5.0\ref\ExerciciosConsole.dll

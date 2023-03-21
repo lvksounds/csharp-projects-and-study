@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{2A9661F3-B48D-4601-BA81-5E6CB30E4206}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repositorio", "Repositorio\Repositorio.csproj", "{854D47CC-7887-498A-ADD6-6C29AFD76815}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A9661F3-B48D-4601-BA81-5E6CB30E4206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9661F3-B48D-4601-BA81-5E6CB30E4206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9661F3-B48D-4601-BA81-5E6CB30E4206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9661F3-B48D-4601-BA81-5E6CB30E4206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{854D47CC-7887-498A-ADD6-6C29AFD76815}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{854D47CC-7887-498A-ADD6-6C29AFD76815}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{854D47CC-7887-498A-ADD6-6C29AFD76815}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{854D47CC-7887-498A-ADD6-6C29AFD76815}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A787FED7-28FC-4708-855B-71309F0994AE}
+	EndGlobalSection
+EndGlobal
