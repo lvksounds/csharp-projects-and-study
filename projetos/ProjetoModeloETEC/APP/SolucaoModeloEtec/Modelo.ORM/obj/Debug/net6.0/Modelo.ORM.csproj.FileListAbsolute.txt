@@ -1,0 +1,12 @@
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\bin\Debug\net6.0\Modelo.ORM.deps.json
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\bin\Debug\net6.0\Modelo.ORM.dll
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\bin\Debug\net6.0\Modelo.ORM.pdb
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.dll
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\refint\Modelo.ORM.dll
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\Modelo.ORM.pdb
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.ORM\obj\Debug\net6.0\ref\Modelo.ORM.dll

@@ -1,0 +1,12 @@
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\bin\Debug\net6.0\Modelo.Helper.deps.json
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\bin\Debug\net6.0\Modelo.Helper.dll
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\bin\Debug\net6.0\Modelo.Helper.pdb
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.csproj.AssemblyReference.cache
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.AssemblyInfoInputs.cache
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.AssemblyInfo.cs
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.csproj.CoreCompileInputs.cache
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.dll
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\refint\Modelo.Helper.dll
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\Modelo.Helper.pdb
+C:\Users\lucas.freitas\Documents\C#\projetos\ProjetoModeloETEC\APP\SolucaoModeloEtec\Modelo.Helper\obj\Debug\net6.0\ref\Modelo.Helper.dll
