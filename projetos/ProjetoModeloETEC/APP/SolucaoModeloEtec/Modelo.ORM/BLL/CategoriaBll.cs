@@ -26,7 +26,10 @@ namespace Modelo.ORM.BLL
         }
         public List<CategoriaInfo> SelecionarTodos()
         {
-            return dal.SelecionarTodos();
+            List<CategoriaInfo> list = new List<CategoriaInfo>();
+            list = dal.SelecionarTodos();
+            return list;
+
         }
     }
 }

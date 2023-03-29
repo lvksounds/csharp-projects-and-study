@@ -22,6 +22,7 @@ namespace Modelo.ORM.DAL
         {
             conexao = new SqlConnection(
                 ConfigurationManager.ConnectionStrings["strConexao"].ConnectionString);
+            conexao.Open();
         }
 
         const string sqlInserir = @"insert into CATEGORIA (Descricao,isAtivo) values (@Descricao, @IsAtivo)
@@ -34,7 +35,9 @@ namespace Modelo.ORM.DAL
 
         const string sqlSelecionar = @"select * from CATEGORIA where categoriaid = @Categoriaid";
 
-        const string sqlSelecionarTodos = @"select * from CATEGORIA order by Descricao";
+        const string sqlSelecionarTodos = @"SELECT * FROM Categoria";
+
+        
 
 
         public CategoriaInfo Salvar(CategoriaInfo categinfo)

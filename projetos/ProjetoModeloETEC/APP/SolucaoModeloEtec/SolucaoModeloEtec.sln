@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo.ORM", "Modelo.ORM\Modelo.ORM.csproj", "{1380A369-3DE5-4B85-B4B0-F7C5575B998F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo.ORM", "Modelo.ORM\Modelo.ORM.csproj", "{1380A369-3DE5-4B85-B4B0-F7C5575B998F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo.Helper", "Modelo.Helper\Modelo.Helper.csproj", "{9708A69C-5FAE-4BA1-9F98-13CF8265F32D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Modelo.Helper", "Modelo.Helper\Modelo.Helper.csproj", "{9708A69C-5FAE-4BA1-9F98-13CF8265F32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo.Windows.App", "Modelo.Windows.App\Modelo.Windows.App.csproj", "{8B70A4A7-9EAC-4FA5-AD76-B9D16678D998}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{9708A69C-5FAE-4BA1-9F98-13CF8265F32D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9708A69C-5FAE-4BA1-9F98-13CF8265F32D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9708A69C-5FAE-4BA1-9F98-13CF8265F32D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B70A4A7-9EAC-4FA5-AD76-B9D16678D998}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B70A4A7-9EAC-4FA5-AD76-B9D16678D998}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B70A4A7-9EAC-4FA5-AD76-B9D16678D998}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B70A4A7-9EAC-4FA5-AD76-B9D16678D998}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

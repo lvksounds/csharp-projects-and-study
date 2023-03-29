@@ -12,5 +12,7 @@ namespace Modelo.ORM.INFO
         public int CategoriaId { get; set; }
         public string Descricao { get; set; }
         public bool IsAtivo { get; set; }
+
+        public string DescPadrao { get { return Descricao ; } }
     }
 }
