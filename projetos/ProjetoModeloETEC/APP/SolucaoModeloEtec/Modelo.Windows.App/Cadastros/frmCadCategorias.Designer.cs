@@ -28,7 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.lblCod = new System.Windows.Forms.Label();
+            this.txtDescricao = new System.Windows.Forms.TextBox();
+            this.chkAtivo = new System.Windows.Forms.CheckBox();
             this.pnlDados.SuspendLayout();
+            this.pnlCadastro.SuspendLayout();
             this.SuspendLayout();
             // 
             // pnlLista
@@ -44,8 +48,37 @@
             // 
             // pnlCadastro
             // 
+            this.pnlCadastro.Controls.Add(this.chkAtivo);
+            this.pnlCadastro.Controls.Add(this.txtDescricao);
+            this.pnlCadastro.Controls.Add(this.lblCod);
             this.pnlCadastro.Location = new System.Drawing.Point(4, 55);
             this.pnlCadastro.Size = new System.Drawing.Size(480, 501);
+            // 
+            // lblCod
+            // 
+            this.lblCod.AutoSize = true;
+            this.lblCod.Location = new System.Drawing.Point(6, 94);
+            this.lblCod.Name = "lblCod";
+            this.lblCod.Size = new System.Drawing.Size(35, 13);
+            this.lblCod.TabIndex = 0;
+            this.lblCod.Text = "label1";
+            // 
+            // txtDescricao
+            // 
+            this.txtDescricao.Location = new System.Drawing.Point(6, 110);
+            this.txtDescricao.Name = "txtDescricao";
+            this.txtDescricao.Size = new System.Drawing.Size(100, 20);
+            this.txtDescricao.TabIndex = 1;
+            // 
+            // chkAtivo
+            // 
+            this.chkAtivo.AutoSize = true;
+            this.chkAtivo.Location = new System.Drawing.Point(6, 136);
+            this.chkAtivo.Name = "chkAtivo";
+            this.chkAtivo.Size = new System.Drawing.Size(80, 17);
+            this.chkAtivo.TabIndex = 2;
+            this.chkAtivo.Text = "checkBox1";
+            this.chkAtivo.UseVisualStyleBackColor = true;
             // 
             // frmCadCategorias
             // 
@@ -56,10 +89,16 @@
             this.Text = "frmCadCategorias";
             this.Load += new System.EventHandler(this.frmCadCategorias_Load);
             this.pnlDados.ResumeLayout(false);
+            this.pnlCadastro.ResumeLayout(false);
+            this.pnlCadastro.PerformLayout();
             this.ResumeLayout(false);
 
         }
 
         #endregion
+
+        private CheckBox chkAtivo;
+        private TextBox txtDescricao;
+        private Label lblCod;
     }
 }
